@@ -26,7 +26,7 @@ Steps
 
 File: app/index.html
 
- <h1>Hello, World from Kubernetes!</h1>
+    <h1>Hello, World from Kubernetes!</h1>
 
 
 
