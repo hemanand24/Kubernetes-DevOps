@@ -27,7 +27,6 @@ File: app/index.html
 
 
 
-
 2. Dockerize the App
 
 Install Docker and Kind.
@@ -54,7 +53,6 @@ Build Docker Image:
 Load Docker Image into Kind:
 
     PS C:\Users\heman\Desktop\XivTech> kind load docker-image hello-world-nginx
-
 
 
 
