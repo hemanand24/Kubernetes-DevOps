@@ -1,4 +1,4 @@
-<h1>Kubernetes DevOps Hiring Assignment<h1>
+Kubernetes DevOps Hiring Assignment
 
 Objective:
 
