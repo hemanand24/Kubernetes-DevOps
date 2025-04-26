@@ -1,5 +1,6 @@
 <h1>Kubernetes DevOps Hiring Assignment<h1>
-<h2>Objective<h2>
+
+Objective:
 
 Deploy a "Hello World" application using NGINX on a local Kubernetes cluster (Kind, Minikube, or K3s).
 Optionally integrate Argo CD for GitOps automation.
@@ -15,7 +16,7 @@ Project Structure
 
 
 
-<h5>Steps<h5>
+Steps:
 
 1. Create a Simple HTML Application
 
