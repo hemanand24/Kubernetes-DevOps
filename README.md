@@ -109,7 +109,7 @@ If NodePort doesn't work directly (curl http://localhost:30007/ fails), use port
 
 Then access it locally via:
     
-    PS C:\Users\heman\Desktop\XivTech>curl http://localhost:8085/
+    PS C:\Users\heman\Desktop\XivTech> curl http://localhost:8085/
 
 or open http://localhost:8085 in a browser.
 
@@ -118,15 +118,15 @@ or open http://localhost:8085 in a browser.
 
 5. Push the project to GitHub repository
     
-    $ git init
+        $ git init
     
-    $ git add .
+        $ git add .
     
-    $ git commit -m "First commit"
+        $ git commit -m "First commit"
     
-    $ git remote add kubdev https://github.com/hemanand24/Kubernetes-DevOps.git
+        $ git remote add kubdev https://github.com/hemanand24/Kubernetes-DevOps.git
     
-    $ git push kubdev master
+        $ git push kubdev master
 
 
 
