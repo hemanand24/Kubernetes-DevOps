@@ -1,4 +1,4 @@
-Kubernetes DevOps Hiring Assignment
+Kubernetes DevOps
 
 Objective:
 
