@@ -1,4 +1,4 @@
-Kubernetes DevOps
+Kubernetes DevOps Project
 
 Objective:
 
